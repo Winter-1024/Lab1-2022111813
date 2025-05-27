@@ -1,4 +1,4 @@
-digraph G {
+digraph g {
     "but" -> "the" [label="1"];
     "a" -> "detailed" [label="1"];
     "shared" -> "the" [label="1"];
